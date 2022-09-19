@@ -1,12 +1,21 @@
+import NextLink from 'next/link'
+
 import BigText from 'components/BigText'
-import Container from 'components/Container'
+import AltCont from 'components/Container/AltCont'
 
 export default function Home() {
   return (
-    <Container>
+    <AltCont>
       <div className='flex flex-col items-center justify-center inset-0'>
-        <BigText slides={['NextJs.', 'TailwindCSS.', 'Typescript.']} />
+        <BigText slides={['Carolina Crypto Collab', '', '']} />
+        <br />
+        <br />
+        <NextLink href='/about' passHref>
+          <Button as='a' bg='red'>
+            Enter Site
+          </Button>
+        </NextLink>
       </div>
-    </Container>
+    </AltCont>
   )
 }

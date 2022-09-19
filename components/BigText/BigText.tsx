@@ -25,7 +25,7 @@ export default function BigText({ slides }: BigTextProps) {
   return (
     <div className='flex flex-col items-center text-6xl font-extrabold tracking-tight md:text-9xl'>
       <div className='flex flex-col items-center'>
-        <p className='text-2xl tracking-normal sm:text-3xl'>The ultimate</p>
+        <p className='text-2xl tracking-normal sm:text-3xl'>Welcome to</p>
         {slides.map((text, index) => {
           return (
             <span key={text} className='relative block text-center'>
@@ -53,10 +53,7 @@ export default function BigText({ slides }: BigTextProps) {
           )
         })}
         <p className='mt-4 text-2xl tracking-normal sm:text-3xl'>
-          Front-End Template.
-        </p>
-        <p className='mt-6 text-lg font-medium tracking-normal text-tertiary'>
-          Edit pages/index.tsx to get started. 🚀
+          The Future of Finance
         </p>
       </div>
     </div>

@@ -1,5 +1,4 @@
 import NextLink from 'next/link'
-
 import BigText from 'components/BigText'
 import AltCont from 'components/Container/AltCont'
 

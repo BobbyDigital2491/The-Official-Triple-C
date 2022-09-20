@@ -25,7 +25,7 @@ export default function BigText({ slides }: BigTextProps) {
   return (
     <div className='flex flex-col items-center text-6xl font-extrabold tracking-tight md:text-9xl'>
       <div className='flex flex-col items-center'>
-        <p className='text-2xl tracking-normal sm:text-3xl'>Welcome to</p>
+        <p className='text-2xl tracking-normal sm:text-3xl'>Welcome to the</p>
         {slides.map((text, index) => {
           return (
             <span key={text} className='relative block text-center'>

@@ -1,15 +1,15 @@
 {
-  "name": "Template",
-  "short_name": "template.cretu.dev",
-  "description": "Template",
+  "name": "Triple C",
+  "short_name": "TripleC",
+  "description": "Caroliona Crypto Collab",
   "icons": [
     {
-      "src": "/static/favicons/android-chrome-192x192.png",
+      "src": "/static/favicons/trip.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/static/favicons/android-chrome-512x512.png",
+      "src": "/static/favicons/trip.png",
       "sizes": "512x512",
       "type": "image/png"
     }

@@ -20,7 +20,7 @@ export default function Container(props: any) {
     title: 'Triple C',
     description: 'Carolina Crypto Collab',
     image:
-      '/static/favicons/trip.png',
+      'https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/unnamed%20(2)%20(1).jpg/:/rs=w:71,h:71,cg:true,m/cr=w:71,h:71/qt=q:95',
     type: 'website',
     ...customMeta,
   }

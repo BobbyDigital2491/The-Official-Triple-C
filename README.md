@@ -2,12 +2,6 @@
 
 ![preview](https://cdn.discordapp.com/attachments/797485737272541250/952208625806495815/image_5.png)
 
-> Most elements are taken from [my website](https://cretu.dev).
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcristicretu%2Fts-next-tailwind-template)
-
-[Use as a CodeSandbox template](https://codesandbox.io/s/ts-next-tailwind-template-vbjvcr)
-
 ## Ingredients ✨:
 
 - NextJS 🚀

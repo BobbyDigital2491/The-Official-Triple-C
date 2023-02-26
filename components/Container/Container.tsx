@@ -17,10 +17,10 @@ export default function Container(props: any) {
   const router = useRouter()
 
   const meta = {
-    title: 'Template name',
-    description: 'Template description',
+    title: 'Triple C',
+    description: 'Carolina Crypto Collab',
     image:
-      'https://cdn.discordapp.com/attachments/797485737272541250/893912493255176192/UnicornVectorGradient_7.png',
+      'https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/unnamed%20(2)%20(1).jpg/:/rs=w:71,h:71,cg:true,m/cr=w:71,h:71/qt=q:95',
     type: 'website',
     ...customMeta,
   }
@@ -47,15 +47,15 @@ export default function Container(props: any) {
           />
           <link
             rel='canonical'
-            href={`https://template.cretu.dev/${router.asPath}`}
+            href={`https://github.com/BobbyDigital2491/${router.asPath}`}
           />
           <meta property='og:type' content={meta.type} />
-          <meta property='og:site_name' content='Cristian Crețu' />
+          <meta property='og:site_name' content='Robert Lawrence' />
           <meta property='og:description' content={meta.description} />
           <meta property='og:title' content={meta.title} />
           <meta property='og:image' content={meta.image} />
           <meta name='twitter:card' content='summary_large_image' />
-          <meta name='twitter:site' content='@cristicrtu' />
+          <meta name='twitter:site' content='@Robbob2491' />
           <meta name='twitter:title' content={meta.title} />
           <meta name='twitter:description' content={meta.description} />
           <meta name='twitter:image' content={meta.image} />
@@ -74,7 +74,7 @@ export default function Container(props: any) {
           </div>
           <div className='flex flex-row items-center space-x-4'>
             <a
-              href='https://github.com/cristicretu/'
+              href='https://github.com/BobbyDigital2491/'
               className='visible'
               target='_blank'
               rel='noreferrer'

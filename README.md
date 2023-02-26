@@ -27,18 +27,18 @@ Under the _components_ folder, use Container for each of your pages - as it prov
 
 ```bash
 # http
-git clone https://github.com/cristicretu/ts-next-tailwind-template.git
+git clone https://github.com/BobbyDigital2491/the-official-triple-c
 ```
 
 ```bash
 # ssh
-git clone git@github.com:cristicretu/ts-next-tailwind-template.git
+git clone git@github.com:BobbyDigital2491/the-official-triple-c.git
 ```
 
 3. With `create-next-app`
 
 ```bash
-npx create-next-app -e https://github.com/cristicretu/ts-next-tailwind-template project-name
+npx create-next-app -e https://github.com/BobbyDigital2491/the-official-triple-c-template project-name
 ```
 
 Install the required packages and run the template
